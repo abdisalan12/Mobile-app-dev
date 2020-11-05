@@ -1,4 +1,4 @@
-package com.lazday.kotlinroommvvm.activity
+package project.app.src.main.java.activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
