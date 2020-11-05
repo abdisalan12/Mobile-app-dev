@@ -29,10 +29,10 @@ https://www.figma.com/proto/Cvfp5NEzbVPU32y3gsl6ZO/Untitled?node-id=1%3A3&scalin
 # Deleted 1st note
 ![](screenshots/Screenshot_1604563699.png)
 
-# Deleting second note
+# Editing second note
 ![](screenshots/Screenshot_1604563742.png)
 
-# Deleted second note
+# Edited second note
 ![](screenshots/Screenshot_1604563748.png)
 
 
